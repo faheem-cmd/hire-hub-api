@@ -19,7 +19,7 @@ jobs:
         node-version: 19.5.0  # Change this to your desired Node.js version
 
     - name: Install dependencies
-      run: npm install
+      run: npm install --force
 
     - name: Run tests
       run: node index.js
@@ -42,5 +42,5 @@ jobs:
 
     - name: Build and deploy
       run: |
-        node index.js  # Adjust this based on your build process
+        node index.js  
   
