@@ -1,5 +1,7 @@
 # hire-hub-api.
  Comprehensive Job Portal with Job Posting, Hiring, Application, and Interview Process Management
+ base_url : https://happy-erin-dalmatian.cyclic.app/
+ Deployment:https://app.cyclic.sh/#/
  
 ![talent-search-hr-specialist-searching-applicant-using-laptop-human-resources-manager_566886-3759](https://github.com/Aplet-Technologies/hire-hub-api/assets/56709898/d268e59d-3329-4f6e-a20a-c3a557bdfc3c)
 
