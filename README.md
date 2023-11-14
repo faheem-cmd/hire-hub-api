@@ -1,5 +1,6 @@
 # hire-hub-api.
- Comprehensive Job Portal with Job Posting, Hiring, Application, and Interview Process Management
+ Comprehensive Job Portal with Job Posting, Hiring, Application, and Interview Process Management.
+ 
  base_url : https://happy-erin-dalmatian.cyclic.app/
  Deployment:https://app.cyclic.sh/#/
  db:https://cloud.mongodb.com/
