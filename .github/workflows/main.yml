@@ -17,9 +17,18 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: 19.5.0  # Change this to your desired Node.js version
+    - name: Post Node.js setup steps
+      run: |
+        # Add any post-Node.js-setup steps here
+        echo "Running post-Node.js-setup steps..."
 
     - name: Install dependencies
       run: npm install --force
+
+    - name: Post Node.js setup steps
+      run: |
+        # Add any post-Node.js-setup steps here
+        echo "Running post-Node.js-setup steps..."
 
     - name: Run tests
       run: node index.js
